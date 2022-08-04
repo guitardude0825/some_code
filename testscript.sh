@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "This script is from github"
-NUMBER=$(($NUMBER1 + $NUMBER2))
+NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
